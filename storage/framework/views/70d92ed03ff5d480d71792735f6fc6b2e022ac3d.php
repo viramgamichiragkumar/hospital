@@ -1,0 +1,1 @@
+<h3>Admin</h3><?php /**PATH C:\xampp\htdocs\hospital\resources\views/admin/admin.blade.php ENDPATH**/ ?>
